@@ -8,7 +8,7 @@ Below is a brief overview of each dataset, ordered from general-purpose to speci
 #### 📁 [USC-HAD](https://sipi.usc.edu/had/)
 - **Description**: A basic HAR dataset collected from 14 subjects performing 12 daily activities such as walking, sitting, and jumping.
 - **Modality**: Body-worn accelerometer and gyroscope
-- **Annotations**: 12 labeled activities
+- **Annotations**: 12 labeled activities (Walking, Running, Jumping, Sitting, Standing, Lying Down, Climbing Stairs, Descending Stairs, Bicycling, Elliptical Trainer, Rowing Machine, Jump Rope)
 
 #### 📁 [CAPTURE-24](https://ora.ox.ac.uk/objects/uuid:99d7c092-d865-4a19-b096-cc16440cd001)
 - **Description**: A free-living dataset collected from 151 participants wearing wrist-mounted accelerometers for 24 hours. Ground truth labels were obtained via wearable cameras and diaries.
