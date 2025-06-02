@@ -1,1 +1,32 @@
 # LLM-user
+---
+### 📊 Human Activity Recognition Datasets
+
+This project supports a range of publicly available datasets commonly used in human activity recognition (HAR) research. 
+Below is a brief overview of each dataset, ordered from general-purpose to specialized applications:
+
+#### 📁 [USC-HAD](https://sipi.usc.edu/had/)
+- **Description**: A basic HAR dataset collected from 14 subjects performing 12 daily activities such as walking, sitting, and jumping.
+- **Modality**: Body-worn accelerometer and gyroscope
+- **Annotations**: 12 labeled activities
+
+#### 📁 [CAPTURE-24](https://datashare.ed.ac.uk/handle/10283/3433)
+- **Description**: A free-living dataset collected from 151 participants wearing wrist-mounted accelerometers for 24 hours. Ground truth labels were obtained via wearable cameras and diaries.
+- **Modality**: Wrist-worn 3-axis accelerometer (Axivity AX3)
+- **Annotations**: Activity labels such as sleep, walking, sitting, standing, etc.
+
+#### 📁 [Opportunity](https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition)
+- **Description**: A rich multimodal dataset collected in a sensorized environment using wearable, object, and ambient sensors.
+- **Modality**: IMUs, accelerometers, magnetic sensors, ambient sensors
+- **Annotations**: Locomotion and gesture labels
+
+#### 📁 [OpenPack](https://open-pack.github.io/)
+- **Description**: A multimodal dataset capturing packing tasks in industrial settings. Includes wearable sensors, depth cameras, and IoT signals.
+- **Modality**: IMUs, RGB-D cameras, 2D/3D keypoints, IoT triggers
+- **Annotations**: 20,000+ labeled task operations
+
+#### 📁 [ParkinsonGait (Freezing of Gait Dataset)](https://physionet.org/content/freezing-gait/1.0.0/)
+- **Description**: A multimodal dataset for detecting Freezing of Gait (FoG) in patients with Parkinson's Disease. Includes clinical annotations and sensor recordings.
+- **Modality**: EEG, IMUs, physiological signals
+- **Annotations**: FoG episodes and walking phases
+---
