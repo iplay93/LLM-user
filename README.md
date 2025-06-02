@@ -10,7 +10,7 @@ Below is a brief overview of each dataset, ordered from general-purpose to speci
 - **Modality**: Body-worn accelerometer and gyroscope
 - **Annotations**: 12 labeled activities
 
-#### 📁 [CAPTURE-24](https://datashare.ed.ac.uk/handle/10283/3433)
+#### 📁 [CAPTURE-24](https://ora.ox.ac.uk/objects/uuid:99d7c092-d865-4a19-b096-cc16440cd001)
 - **Description**: A free-living dataset collected from 151 participants wearing wrist-mounted accelerometers for 24 hours. Ground truth labels were obtained via wearable cameras and diaries.
 - **Modality**: Wrist-worn 3-axis accelerometer (Axivity AX3)
 - **Annotations**: Activity labels such as sleep, walking, sitting, standing, etc.
