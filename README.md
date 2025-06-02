@@ -25,7 +25,7 @@ Below is a brief overview of each dataset, ordered from general-purpose to speci
 - **Modality**: IMUs, RGB-D cameras, 2D/3D keypoints, IoT triggers
 - **Annotations**: 20,000+ labeled task operations
 
-#### 📁 [ParkinsonGait (Freezing of Gait Dataset)](https://physionet.org/content/freezing-gait/1.0.0/)
+#### 📁 [ParkinsonGait (Freezing of Gait Dataset)](https://data.mendeley.com/datasets/r8gmbtv7w2/3)
 - **Description**: A multimodal dataset for detecting Freezing of Gait (FoG) in patients with Parkinson's Disease. Includes clinical annotations and sensor recordings.
 - **Modality**: EEG, IMUs, physiological signals
 - **Annotations**: FoG episodes and walking phases
